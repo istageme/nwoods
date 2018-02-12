@@ -832,7 +832,7 @@
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "极具特色，结合本土文化资源，运用了大量的儒家学派文化符号，将几千年的儒家文化演绎的淋漓尽致；气势磅礴的至圣先师铜塑、古朴典雅的孔子行教图、匠心独具的六艺柱、以论语章节和诗经诗篇装饰的餐厅、温馨舒适的客房。浓厚的东方礼仪，特色的文化理念，新型的管理模式，让每位客人都能感受传统文化与现代意识的完美结合，体现了“温馨儒雅、东方情韵”的特色。",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">马上预定</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">成为房东</a>"
               }
             ]
           }
