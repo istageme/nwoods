@@ -1918,6 +1918,32 @@ body {
   text-align: right;
   color: #ffffff;
 }
+.cid-qN5iWksBOJ {
+  background-color: #b2ccd2;
+  overflow: hidden !important;
+}
+.cid-qN5iWksBOJ .container-fluid {
+  padding: 0 5rem;
+}
+.cid-qN5iWksBOJ .animated-element {
+  color: #efefef;
+}
+.cid-qN5iWksBOJ .img-block {
+  align-self: center;
+}
+@media (max-width: 1199px) {
+  .cid-qN5iWksBOJ .mbr-figure img {
+    width: 100%;
+  }
+}
+@media (max-width: 767px) {
+  .cid-qN5iWksBOJ .container-fluid {
+    padding: 0 1rem;
+  }
+  .cid-qN5iWksBOJ .mbr-figure {
+    margin-top: 1rem;
+  }
+}
 .cid-qJqWYRdwd2 {
   padding-top: 90px;
   padding-bottom: 90px;
